@@ -1,0 +1,16 @@
+{
+  "name": "WhatsAppRobot",
+  "version": "0.0.1",
+  "description": "Whatsapp Robot.",
+  "main": "index.js",
+  "dependencies": {
+    "@open-wa/wa-automate": "^3.1.10",
+    "@open-wa/wa-decrypt": "^3.0.0"
+  },
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Gabriel",
+  "homepage": "https://github.com/imGaab/WhatsAppRobot#readme",
+  "license": "ISC"
+}
