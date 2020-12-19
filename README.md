@@ -6,7 +6,7 @@
 
 - No terminal use
 ```
-git clone https://github.com/imGaab/WhatsappRobot
+git clone https://github.com/imGaab/WhatsappRobot.git
 ```
 - Entre no projeto
 ```
@@ -36,7 +36,7 @@ node index.js
 
 ## Após o Scan
 - Qualquer usuário que executar os comandos do código, o Robot irá responder com o resultado da solicitação
-- Para desativar realize o fechamento do terminal, ele irá salvar sua seção em *session.data.json*, caso queria mudar a seção apenas apague o código do *session.data.json* e defina-o como *[ ]*
+- Para desativar realize o fechamento do terminal, ele irá salvar sua sessão em *session.data.json*, caso queria mudar a sessão apenas apague o código do *session.data.json* e defina-o como *[ ]*
 
 
 - Quaisquer dúvidas entre em contato.
