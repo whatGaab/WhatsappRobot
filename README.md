@@ -6,7 +6,7 @@
 
 - No terminal use
 ```
-git clone https://github.com/imGaab/WhatsappRobot.git
+git clone https://github.com/whatGaab/WhatsappRobot.git
 ```
 - Entre no projeto
 ```
