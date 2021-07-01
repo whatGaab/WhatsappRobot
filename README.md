@@ -12,7 +12,7 @@ git clone https://github.com/whatGaab/WhatsappRobot.git
 ```
 cd WhatsappRobot
 ```
-- Instale as dependecias
+- Instale as dependências
 ```
 npm install -y
 ```
